@@ -1,0 +1,13 @@
+# Environments
+.env
+venv/
+mamba_edge_env_v1_test/
+mamba_edge_test_env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS
+.DS_Store
